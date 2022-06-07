@@ -121,7 +121,7 @@ link = "https://www.facebook.com/St-John-Baptist-De-La-Salle-Catholic-School-Add
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/sjbdcs"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
