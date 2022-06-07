@@ -109,15 +109,15 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://sjbdcs.us17.list-manage.com/subscribe/post?u=7827c27f247d2d5406bae8797&amp;id=02e5a098e8"
+mailchimp_form_name = "b_7827c27f247d2d5406bae8797_02e5a098e8"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/St-John-Baptist-De-La-Salle-Catholic-School-Addis-Ababa-100741619343302"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
@@ -125,13 +125,9 @@ link = "#"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/sjbdcs/"
 title = "instagram"
 [[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/sjbdcs/"
 title = "linkedin"
