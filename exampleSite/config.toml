@@ -69,10 +69,10 @@ url = "contact/"
 weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+author = "SJBDCS"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "St John Baptist De La Salle Catholic School, Addis Ababa"
+email = "communications@sjbdcs.org"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+211234565523"
@@ -83,8 +83,8 @@ expire_days = 2
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "9.061537"
+map_longitude = "38.6862893"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
