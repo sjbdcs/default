@@ -7,7 +7,7 @@ theme = "educenter-hugo"
 title = "St John Baptist De La Salle Catholic School"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Copyright &copy; 2022 St John Baptist De La Salle Catholic School, Addis Ababa"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -68,7 +68,7 @@ name = "Contact"
 url = "contact/"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Asco Addis Sefer"
 author = "SJBDCS"
 contact_form_action = "#"
 description = "St John Baptist De La Salle Catholic School, Addis Ababa"
