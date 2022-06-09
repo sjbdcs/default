@@ -1,6 +1,6 @@
 ---
 title: About Us
-bg_image: images/images/bg5.jpg
+bg_image: images/images/
 image: images/stone.jpg
 description: Our history, how we were founded and the values that we stand on.
 
