@@ -49,5 +49,6 @@ fields:
   default: course
 pages:
 - exampleSite/content/english/course/moe-chemistry.md
+- exampleSite/content/english/course/moe-mathematics.md
 - exampleSite/content/english/course/moe-physics.md
 - exampleSite/content/english/course/moe-physics.md
