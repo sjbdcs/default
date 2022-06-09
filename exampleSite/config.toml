@@ -82,7 +82,7 @@ enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDUTDm-UOW6TrH6lQpnW48qSSv0wBHH-Z8&libraries=places"
 map_latitude = "9.061537"
 map_longitude = "38.6862893"
 map_marker = "images/marker.png"
