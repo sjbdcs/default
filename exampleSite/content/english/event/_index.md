@@ -5,4 +5,4 @@ description: 'Events, programs and exciting things to attend at St John Baptist 
   La Salle Catholic School. '
 
 ---
-Events happening now:
+Events Calendar:
