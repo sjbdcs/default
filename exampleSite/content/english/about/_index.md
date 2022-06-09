@@ -1,23 +1,20 @@
 ---
-title: "About Us"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# about image
-image: "images/about/about-page.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: About Us
+bg_image: images/images/bg5.jpg
+image: images/stone.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+
 ---
+## Founding
 
-## ABOUT OUR JOURNY
+The Christian Brothers founded St. John Baptist de La Salle Catholic School in Addis Ababa, Ethiopia in 2010 to serve the educational needs of children living in Addis Ababa and the Oromia Regions. While the school is open to the general public for a moderate fee, the children from the nearby orphanage run by St. Mother Teresa’s Community do not have to pay. The school is located on the border between Addis Ababa and Oromia regions which makes it more unique and special. In the year 2010, the school served 668 students. Currently, the school is serving more than 2000 students who come from different races, denominations, varied economic backgrounds and artisans, and health statuses
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+## Our Founders
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+#### BROTHERS OF THE CHRISTIAN SCHOOL
+
+Brothers of the Christian Schools, a religious community, commonly called Christian Brothers, was established by the French educator St. John Baptist de La Salle, at Reims, France, in 1680. The brothers take the religious vows of poverty, chastity, and obedience and service to the poor through education and loyalty. In the mid-1980s, community residences numbered more than 1,250 throughout the world. About 10,000 brothers taught approximately 800,000 pupils. Our headquarters in the United States are located at Romeoville, Illinois.
+
+![](/images/dls.png)
