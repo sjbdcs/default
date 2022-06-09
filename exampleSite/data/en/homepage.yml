@@ -5,42 +5,44 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "St. John Baptist de La Salle Catholic School sets high standards as an academic institution and hopes to serve as positive role model
+							for other schools in Ethiopia. The school aims to provide a quality education for all of its students, regardless of their academic abilities.
+						 For the past five years, all students in grades eight, 10 and 12 passed the Addis Ababa regional and Ethiopian national exams"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Request Information"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Our Vision"
+      content : "The school’s vision is to integrate children who come from different races and denominations, who are economically poor and artisans, and who are in poor health."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
+        label : "Learn More"
+        link : "about/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Our Mission"
+      content : "The mission statement of St. John Baptist de La Salle Catholic School is to provide a human and Christian education to less fortunate young Ethiopians so they can become respectful and loving to all humanity and to their country, according to the ministry which the Catholic Church entrusted to it."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
+        label : "About US"
+        link : "about/"
 
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/full.png"
   feature_item:
     # feature item loop
     - name : "Scholorship News"
