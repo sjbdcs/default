@@ -2,9 +2,7 @@
 title: About Us
 bg_image: images/images/bg5.jpg
 image: images/stone.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Our history, how we were founded and the values that we stand on.
 
 ---
 ## Founding
