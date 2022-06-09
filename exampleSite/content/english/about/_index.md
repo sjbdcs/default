@@ -19,8 +19,10 @@ Brothers of the Christian Schools, a religious community, commonly called Christ
 
 ![](/images/dls.png)
 
-St John Baptist De La Salle  
-![](/images/dlsp.jpg)  
+## St John Baptist De La Salle  
+![](/images/dlsp.jpg)
+
+  
 John Baptist de La Salle was born into a world very different from our own. He was the first son of wealthy parents living in France over 300 years ago. Born at Reims, John Baptist de La Salle received the tonsure at age eleven and was named Canon of the Reims Cathedral at sixteen. Though he had to assume the administration of family affairs after his parents died, he completed his theological studies and was ordained a priest on April 9, 1678.Two years later he received a doctorate in theology. Meanwhile he became tentatively involved with a group of rough and barely literate young men in order to establish schools for poor boys.
 
 At that time, a few people lived in luxury, but most of the people were extremely poor: peasants in the country, and slum dwellers in the towns. Only, a few could send their children to school; most children had little hope for the future. Moved by the plight of the poor who seemed so “far from salvation” either in this world or the next, he determined to put his own talents and advanced education at the service of the children “often left to themselves and badly brought up.” To be more effective, he abandoned his family home, moved in with the teachers, renounced his position as Canon and his wealth, and so formed the community that became known as the Brothers of the Christian Schools. His enterprise met opposition from the ecclesiastical authorities who resisted the creation of a new form of religious life, a community of consecrated laymen to conduct gratuitous schools “together and by association.” The educational establishment resented his innovative methods and his insistence on gratuity for all, regardless of whether they could afford to pay.
