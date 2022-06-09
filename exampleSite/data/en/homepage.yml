@@ -1,13 +1,13 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/bg5.jpg"
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
       content : "St. John Baptist de La Salle Catholic School sets high standards as an academic institution and hopes to serve as positive role model
-							for other schools in Ethiopia. The school aims to provide a quality education for all of its students, regardless of their academic abilities.
-						 For the past five years, all students in grades eight, 10 and 12 passed the Addis Ababa regional and Ethiopian national exams"
+                 for other schools in Ethiopia. The school aims to provide a quality education for all of its students, regardless of their academic abilities.
+		  For the past five years, all students in grades eight, 10 and 12 passed the Addis Ababa regional and Ethiopian national exams"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
