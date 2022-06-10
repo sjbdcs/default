@@ -25,15 +25,15 @@ url = "event/"
 name = "scholarship"
 url = "scholarship/"
 [[Languages.en.menu.footer]]
-name = "research"
+name = "research and scholarship"
 url = "research/"
 [[Languages.en.menu.main]]
 name = "About"
 url = "about/"
 weight = 1
 [[Languages.en.menu.main]]
-name = "course"
-url = "courses/"
+name = "Subjects Offered"
+url = "course/"
 weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
@@ -48,23 +48,20 @@ name = "notice"
 parent = "Pages"
 url = "notice/"
 [[Languages.en.menu.main]]
-name = "event"
-parent = "Pages"
+name = "events"
 url = "event/"
 [[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship/"
+name = "Admission"
+url = "admission/"
 [[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
+name = "research and scholarship"
 url = "research/"
 [[Languages.en.menu.main]]
 name = "Updates"
 url = "blog/"
 weight = 4
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Contact Us"
 url = "contact/"
 weight = 5
 [params]
