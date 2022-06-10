@@ -36,10 +36,6 @@ name = "Subjects Offered"
 url = "course/"
 weight = 2
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Go To"
-weight = 3
-[[Languages.en.menu.main]]
 name = "Updates and notices"
 parent = "Go To"
 url = "notice/"
@@ -66,6 +62,10 @@ weight = 4
 name = "Contact Us"
 url = "contact/"
 weight = 5
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Go To"
+weight = 3
 [params]
 address = "Asco Addis Sefer"
 author = "SJBDCS"
