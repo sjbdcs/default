@@ -121,15 +121,15 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "Teachers and Staff"
-      count : "150+"
+      count : "150"
 
     # funfact item loop
     - name : "Subjects Offered"
-      count : "20+"
+      count : "20"
 
     # funfact item loop
     - name : "Students"
-      count : "2000+"
+      count : "2000"
 
     # funfact item loop
     - name : "SATISFIED CLIENT"
