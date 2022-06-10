@@ -38,10 +38,11 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "research and scholarship"
 url = "research/"
+weight = 4
 [[Languages.en.menu.main]]
 name = "News"
 url = "blog/"
-weight = 4
+weight = 3
 [[Languages.en.menu.main]]
 name = "Contact Us"
 url = "contact/"
@@ -61,7 +62,7 @@ url = "notice/"
 [[Languages.en.menu.main]]
 hasChildren = true
 name = "Go To"
-weight = 3
+weight = 6
 
 [params]
 address = "Asco Addis Sefer"
