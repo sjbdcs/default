@@ -65,7 +65,7 @@
         {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
         <div class="d-flex justify-content-between align-items-center flex-wrap">
           <div class="media mb-2 mb-sm-0 align-items-center">
-            <img class="mr-4 img-fluid teacher-thumb-sm" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+            <img class="mr-4 img-fluid teacher-thumb-sm" src="/images/moe.jpg" alt="{{ .Title }}">
             <div class="media-body">
               <h4 class="mt-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
               {{ .Params.Course }}
