@@ -70,7 +70,7 @@ weight = 5
 [params]
 address = "Asco Addis Sefer"
 author = "SJBDCS"
-contact_form_action = "netlify"
+contact_form_action = "mailto:communications@sjbdcs.org"
 description = "St John Baptist De La Salle Catholic School, Addis Ababa"
 email = "communications@sjbdcs.org"
 google_analitycs_id = ""
