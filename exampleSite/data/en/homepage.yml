@@ -48,21 +48,24 @@ banner_feature:
     - name : "News"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "News on activities, scholarship, and research"
-
+      link : "blog/"	
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Updates on registration, activities, and notices."
+      link : "notice/"
 
     # feature item loop
     - name : "Discover"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Learn about us in pictures and why St John is a great fit for you."
+      link : "gallery/"
 
     # feature item loop
     - name : "Admission Now"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Information on Admission"
+      link : "admission/"
 
 
 ############################## about ##################################
