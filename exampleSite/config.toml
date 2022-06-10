@@ -60,7 +60,7 @@ name = "research"
 parent = "Pages"
 url = "research/"
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Updates"
 url = "blog/"
 weight = 4
 [[Languages.en.menu.main]]
