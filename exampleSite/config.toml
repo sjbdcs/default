@@ -33,7 +33,7 @@ url = "about/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "course"
-url = "course/"
+url = "courses/"
 weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
