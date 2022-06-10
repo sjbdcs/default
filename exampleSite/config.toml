@@ -57,7 +57,7 @@ url = "admission/"
 name = "research and scholarship"
 url = "research/"
 [[Languages.en.menu.main]]
-name = "Updates"
+name = "News"
 url = "blog/"
 weight = 4
 [[Languages.en.menu.main]]
