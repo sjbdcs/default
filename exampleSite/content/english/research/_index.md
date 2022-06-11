@@ -1,8 +1,13 @@
 ---
-title: "Our Courses"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: Research at St John
+bg_image: "/images/scholarship/scholarship-item-1.jpg"
+description: Research and Scholarship at St John Baptist De La Salle Catholic School,
+  Addis Ababa.
+image: "/images/research/research-5.jpg"
+
 ---
+At St John, we believe involving students in research is as important as teaching. As much as possible, students are always encouraged to innovate, discover and do independent studies with their teachers. Our teachers teach with the goal of inspiring students to become impactful citizens who are innovative and able to solve problems.
+
+Every year, grade 11 students do a research project that spans a semester with the objective of helping the community. A lot of research that has been done in the past has been helpful to the regional government in assessing problems that was uncovered during the research done by the students.
+
+As part of St John's goals of inspiring and motivating students to become innovators, we  
