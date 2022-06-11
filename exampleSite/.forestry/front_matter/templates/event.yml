@@ -49,5 +49,4 @@ fields:
   default: event
 pages:
 - exampleSite/content/english/event/demo-event.md
-- exampleSite/content/english/event/demo-event.md
 - exampleSite/content/english/event/final-exams.md
