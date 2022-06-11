@@ -89,7 +89,7 @@ cta:
   button:
     enable : true
     label : "Browse"
-    link : "gallery/"
+    link : "https://photos.sjbdcs.org/"
 
 
 ######################## Success story #############################
