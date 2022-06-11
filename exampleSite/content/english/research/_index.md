@@ -10,4 +10,4 @@ At St John, we believe involving students in research is as important as teachin
 
 Every year, grade 11 students do a research project that spans a semester with the objective of helping the community. A lot of research that has been done in the past has been helpful to the regional government in assessing problems that was uncovered during the research done by the students.
 
-As part of St John's goals of inspiring and motivating students to become innovators, we  
+As part of St John's goals of inspiring and motivating students to become innovators, we hold several exhibitions featuring innovations and projects proposed and done by students.
