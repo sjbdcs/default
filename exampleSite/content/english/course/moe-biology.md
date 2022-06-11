@@ -1,6 +1,6 @@
 +++
 apply_url = ""
-bg_image = ""
+bg_image = "/images/moe.jpg"
 category = ""
 date = ""
 description = ""
@@ -9,6 +9,7 @@ fee = ""
 image = ""
 teacher = ""
 title = "MOE Biology"
+type = ""
 weekly = ""
 
 +++
