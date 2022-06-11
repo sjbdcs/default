@@ -6,9 +6,10 @@ date = ""
 description = ""
 duration = ""
 fee = ""
-image = ""
+image = "/images/moe.jpg"
 teacher = ""
 title = "MOE Information Communication Technology"
+type = ""
 weekly = ""
 
 +++
