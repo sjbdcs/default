@@ -50,7 +50,11 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "Admissions"
 parent = "Go To"
-url = "admission/"
+url = "pages/admission/"
+[[Languages.en.menu.main]]
+name = "Registration and Fees"
+parent = "Go To"
+url = "pages/registration-and-fees/"
 [[Languages.en.menu.main]]
 name = "events"
 parent = "Go To"
