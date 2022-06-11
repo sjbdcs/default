@@ -64,6 +64,10 @@ name = "Updates and notices"
 parent = "Go To"
 url = "notice/"
 [[Languages.en.menu.main]]
+name = "Internal"
+parent = "Go To"
+url = "intranet.sjbdcs.org"
+[[Languages.en.menu.main]]
 hasChildren = true
 name = "Go To"
 weight = 6
