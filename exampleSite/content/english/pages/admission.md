@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/favicon-1.png"
+bg_image = ""
 description = "Information about admission into St John Baptist De La Salle Catholic School."
 title = "Admission"
 
