@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-date = 2022-05-30T12:00:00Z
+date = ""
 description = "Midterms Start"
 download_link = ""
 title = "Midterm Exams Start"
