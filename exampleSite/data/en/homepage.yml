@@ -130,11 +130,6 @@ funfacts:
     # funfact item loop
     - name : "Students"
       count : "2000"
-
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
-
 # funfact is for about page
 
 
