@@ -15,5 +15,6 @@ fields:
   label: bg image
   description: page header background image
 pages:
+- exampleSite/content/english/pages/admission.md
 - exampleSite/content/english/pages/privacy-cookie-and-data-handling-policies.md
 - exampleSite/content/english/pages/privacy-cookie-and-data-handling-policies.md
