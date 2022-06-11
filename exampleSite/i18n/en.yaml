@@ -80,16 +80,16 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: School
 
 - id: links
   translation: links
 
 - id: courses
-  translation: Courses
+  translation: Subjects Offered
 
 - id: new_notice
-  translation: new notice
+  translation: Latest Updates
 
 - id: call
   translation: call
