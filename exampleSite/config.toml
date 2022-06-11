@@ -64,9 +64,9 @@ name = "Updates and notices"
 parent = "Go To"
 url = "notice/"
 [[Languages.en.menu.main]]
-name = "Internal"
+name = "Intranet"
 parent = "Go To"
-url = "intranet.sjbdcs.org"
+url = "intranet.sjbdcs.org:8085"
 [[Languages.en.menu.main]]
 hasChildren = true
 name = "Go To"
