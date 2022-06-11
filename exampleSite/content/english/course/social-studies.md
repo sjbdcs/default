@@ -6,9 +6,10 @@ date = ""
 description = ""
 duration = ""
 fee = ""
-image = ""
+image = "/images/moe.jpg"
 teacher = ""
 title = "Social Studies"
+type = ""
 weekly = ""
 
 +++
