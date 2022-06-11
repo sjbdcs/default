@@ -49,20 +49,24 @@ banner_feature:
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "One of our most important values is academic excellence through teaching and instruction."
      	
+	
     # feature item loop
     - name : "Diverse"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "We specialize both in the natural and social sciences and help our students achieve their goals in their fields of interest."
+
 
     # feature item loop
     - name : "Visual and Kinesthetic Teaching"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Unlike other schools, we excel in visual and kinesthetic teaching and this is why St John is a great fit for you."
 
+
     # feature item loop
     - name : "Values based on the Bible"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Our academic and moral values stem from teachings of the Bible"
+
 
 ############################## about ##################################
 about:
