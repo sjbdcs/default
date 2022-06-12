@@ -15,18 +15,18 @@
     <div class="container pt-9 pb-9 pt-md-13 pb-md-13">
       <div class="row justify-content-center align-content-between">
         <div class="col-9 text-center">
-		<b>Development Page(Beta). We currently don't have any public updates.
+		<b>Development Page(Beta). We currently don't have any public updates. You are not supposed to be here. Please go back to your previous page.
 </b>
 		</br> </br>
           
          <h3>
-  Redirecting to Admin<span id="countdown">1</span> seconds
+  Redirecting to Admin<span id="countdown">10</span> seconds
 </h3>
 <!-- JavaScript part -->
 <script type="text/javascript">
     
     // Total seconds to wait
-    var seconds = 1;
+    var seconds = 10;
     
     function countdown() {
         seconds = seconds - 1;
@@ -37,7 +37,7 @@
             // Update remaining seconds
             document.getElementById("countdown").innerHTML = seconds;
             // Count down using javascript
-            window.setTimeout("countdown()", 1);
+            window.setTimeout("countdown()", 1000);
         }
     }
     
