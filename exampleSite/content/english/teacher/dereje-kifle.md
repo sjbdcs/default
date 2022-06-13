@@ -5,7 +5,7 @@ course = ""
 description = ""
 image = "/images/dereje_kifle.jpg"
 interest = ["Human Interaction\n", "Linguistics "]
-title = "Dereje Kifle"
+title = "Dereje Kifle, M.A."
 type = ""
 [[contact]]
 icon = "mail"
