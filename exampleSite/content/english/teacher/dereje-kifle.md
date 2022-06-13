@@ -4,7 +4,7 @@ bio = "Dereje is the Amharic Department head and teaches all high school Amharic
 course = ""
 description = ""
 image = "/images/dereje_kifle.jpg"
-interest = []
+interest = ["Human Interaction\n", "Linguistics "]
 title = "Dereje Kifle"
 type = ""
 [[contact]]
