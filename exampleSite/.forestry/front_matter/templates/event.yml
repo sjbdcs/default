@@ -48,6 +48,5 @@ fields:
   label: type
   default: event
 pages:
-- exampleSite/content/english/event/final-exams-start.md
 - exampleSite/content/english/event/midterm-exams.md
 - exampleSite/content/english/event/midterm-exams.md
