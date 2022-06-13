@@ -1,5 +1,5 @@
-baseURL = "https://sjbdcs.org"
-disableLanguages = []
+baseURL = "https://sjbdcs.org/"
+disableLanguages = [fr]
 disqusShortname = "sjbdcs"
 paginate = "6"
 summaryLength = "10"
