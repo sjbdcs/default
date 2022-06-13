@@ -1,15 +1,15 @@
 +++
 apply_url = ""
 bg_image = ""
-category = ""
+category = "Social Sciences"
 date = ""
 description = ""
 duration = ""
-fee = ""
+fee = "0"
 image = "/images/moe.jpg"
-teacher = ""
+teacher = "Dereje Kifle"
 title = "MOE Amharic"
 type = ""
-weekly = ""
+weekly = "2 days"
 
 +++
