@@ -1,4 +1,4 @@
-baseURL = "https://sjbdcs.org"
+baseURL = "https://sjbdcs.org/"
 disableLanguages = []
 disqusShortname = "sjbdcs"
 paginate = "6"
@@ -11,7 +11,7 @@ copyright = "Copyright &copy; 2022 St John Baptist De La Salle Catholic School, 
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = 2
 [[Languages.en.menu.footer]]
 name = "teacher"
 url = "teacher/"
