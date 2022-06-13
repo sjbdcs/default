@@ -8,6 +8,5 @@ image = "/images/favicon.png"
 location = "Exam Hall"
 speaker = []
 title = "Final Exams"
-type = ""
 
 +++
