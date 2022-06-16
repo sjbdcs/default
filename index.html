@@ -30,6 +30,7 @@
          <h3>
   Redirecting to Administration page in <span id="countdown">10</span> seconds. Go <a href="//sjbdcs.org">home</a>
 </h3>
+	    
 <!-- JavaScript part -->
 <script type="text/javascript">
     
@@ -52,6 +53,13 @@
     // Run countdown function
     countdown();
     
-</script>          
+</script>   
+  <script>
+  function getIP(json) {
+    document.write("Your IP address is: " + json.ip);
+  }
+  </script>
+  <script src="http://api.ipify.org?format=jsonp&callback=getIP"></script>
+
   </body>
 </html>
