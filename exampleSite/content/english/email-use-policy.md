@@ -1,6 +1,7 @@
 +++
 bg_image = "/images/logo-1.png"
 description = "Policies on acceptable email use."
+draft = true
 title = "Email Use Policy"
 
 +++
