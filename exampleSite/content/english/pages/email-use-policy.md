@@ -4,7 +4,7 @@ description = "Policies on acceptable email use."
 title = "Email Use Policy"
 
 +++
-St John Baptist De La Salle Catholic School provides email accounts to teachers  who have a primary academic appointment students with a valid ID. Usage of the SJBDCS email system indicates that you will abide by this policy. Once your appointment or job at St John ends, your email and all related services such as mailing lists and remote access will be terminated. All questions or requests regarding this policy should be forwarded to the webmaster: [webmaster@sjbdcs.org](mailto:webmaster@sjbdcs.org).
+St John Baptist De La Salle Catholic School provides email accounts to teachers  who have a primary academic appointment, staff and students with a valid ID. Usage of the SJBDCS email system indicates that you will abide by this policy. Once your appointment or job at St John ends, your email and all related services such as mailing lists and remote access will be terminated. All questions or requests regarding this policy should be forwarded to the webmaster: [webmaster@sjbdcs.org](mailto:webmaster@sjbdcs.org).
 
 ### Ownership of Data
 
@@ -62,7 +62,7 @@ Note that passwords should never be shared with anyone claiming to be the Postma
 
 ### Privacy and Monitoring
 
-Members of the HMS community have a reasonable expectation of privacy that will vary from workplace to workplace. The expectation of privacy is not absolute. There may be situations in which supervisors need to gain access to email in a users account that is necessary for the working of the group or department, in which emails are subpoenaed in litigation, and so forth.
+Members of the SJBDCS community have a reasonable expectation of privacy that will vary from workplace to workplace. The expectation of privacy is not absolute. There may be situations in which supervisors need to gain access to email in a users account that is necessary for the working of the group or department, in which emails are subpoenaed in litigation, and so forth.
 
 The SJBDCS IT department is committed to maintaining the privacy of email and makes no attempt to monitor the content of emails. IT staff protects the confidentiality of users in all matters. But emails that are forwarded to IT staff from other email users that are fraudulent, harassing, profane, obscene, intimidating, defamatory or otherwise possibly unlawful or inappropriate will be sent to the designated office for review.
 
