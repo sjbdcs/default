@@ -72,8 +72,6 @@ While public email standards continue to evolve and improve, users should not ex
 
 Never send confidential, proprietary or trade secret information via emails without first obtaining the authorization of a supervisor. This type of information is a valuable asset to your lab and or the school and each of us must make sure that it is protected from unauthorized disclosure.
 
-Sensitive patient information should not be exchanged through email since the security of the information cannot be guaranteed. Any clinician using email to communicate with a patient should obtain permission from the patient and explain possible hazards prior to exchanging email messages.
-
 ### Forwarding
 
 Forwarding email isn't recommended, but not prohibited.
