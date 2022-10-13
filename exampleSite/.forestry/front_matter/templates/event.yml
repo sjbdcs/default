@@ -48,9 +48,7 @@ fields:
   label: type
   default: event
 pages:
-- exampleSite/content/english/event/exams-for-the-first-quarter-will-be-given.md
 - exampleSite/content/english/event/final-exams-1.md
 - exampleSite/content/english/event/final-exams-1.md
-- exampleSite/content/english/event/first-quarter-midterm-exams.md
 - exampleSite/content/english/event/midterm-exams.md
 - exampleSite/content/english/event/midterm-exams.md
