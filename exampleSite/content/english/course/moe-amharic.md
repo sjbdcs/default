@@ -8,7 +8,7 @@ duration = "1 Year"
 fee = "0"
 image = "/images/moe.jpg"
 teacher = ""
-title = "MOE Amharic"
+title = "Amharic"
 type = ""
 weekly = "2 days"
 
