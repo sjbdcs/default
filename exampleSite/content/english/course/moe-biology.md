@@ -1,7 +1,7 @@
 +++
 apply_url = ""
 bg_image = ""
-category = ""
+category = "Natural Sciences"
 date = ""
 description = ""
 duration = ""
