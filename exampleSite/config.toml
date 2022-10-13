@@ -1,7 +1,7 @@
 baseURL = "https://sjbdcs.org/"
 disableLanguages = []
 disqusShortname = "sjbdcs"
-paginate = "6"
+paginate = "10"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "St John Baptist De La Salle Catholic School"
@@ -75,7 +75,6 @@ url = "http://10.10.56.10:8085"
 hasChildren = true
 name = "Go To"
 weight = 6
-
 [params]
 address = "Asco Addis Sefer"
 author = "SJBDCS"
@@ -88,7 +87,7 @@ mobile = "+251112706132"
 top_header = true
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "30"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -126,7 +125,7 @@ mailchimp_form_action = "https://sjbdcs.us17.list-manage.com/subscribe/post?u=78
 mailchimp_form_name = "b_7827c27f247d2d5406bae8797_02e5a098e8"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://www.facebook.com/St-John-Baptist-De-La-Salle-Catholic-School-Addis-Ababa-100741619343302"
+link = "https://www.facebook.com/sjbdcs"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
