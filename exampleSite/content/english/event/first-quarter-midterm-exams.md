@@ -1,7 +1,7 @@
 +++
 apply_url = ""
 bg_image = ""
-date = 2022-06-27T12:00:00Z
+date = 2022-11-14T12:00:00Z
 description = "Finals Start"
 fee = "0 ETB"
 image = "/images/favicon.png"
