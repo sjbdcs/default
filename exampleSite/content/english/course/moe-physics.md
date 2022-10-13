@@ -8,7 +8,7 @@ duration = ""
 fee = ""
 image = "/images/moe.jpg"
 teacher = ""
-title = "MOE Physics"
+title = "Physics"
 type = ""
 weekly = ""
 
