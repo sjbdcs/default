@@ -8,7 +8,7 @@ duration = ""
 fee = ""
 image = "/images/moe.jpg"
 teacher = ""
-title = "MOE Information Communication Technology"
+title = " Information Communication Technology"
 type = ""
 weekly = ""
 
