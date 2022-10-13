@@ -1,16 +1,16 @@
 +++
 bg_image = ""
-bio = "Dereje(M.A.) is the Amharic Department head and teaches all high school Amharic classes."
-course = ""
+bio = "Tariku Deriba is a physics instructor for grades 10 and 11 with multiple years of experience. He earned his BSc from Addis Ababa University."
+course = "MOE-Physics"
 description = ""
 draft = true
-image = "/images/dereje_kifle-1.jpg"
-interest = ["Human Interaction\n", "Linguistics "]
+image = ""
+interest = ["Physical Chemistry", "Solar and Thermal Engineering Designs"]
 title = "Tariku Deriba"
 type = ""
 [[contact]]
 icon = "mail"
-link = "mailto:derjekifle@sjbdcs.org"
-name = "derjekifle@sjbdcs.org"
+link = "mailto:tarikuderiba@sjbdcs.org"
+name = "tarikuderiba@sjbdcs.org"
 
 +++
