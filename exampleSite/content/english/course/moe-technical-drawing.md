@@ -8,7 +8,7 @@ duration = ""
 fee = ""
 image = "/images/moe.jpg"
 teacher = ""
-title = "MOE Technical Drawing"
+title = " Technical Drawing"
 type = ""
 weekly = ""
 
