@@ -36,6 +36,10 @@ name = "Calendar"
 url = "https://calendar.sjbdcs.org"
 weight = 2
 [[Languages.en.menu.main]]
+name = "Subjects Offered"
+url = "course/"
+weight = 2
+[[Languages.en.menu.main]]
 name = "research and scholarship"
 url = "research/"
 weight = 4
