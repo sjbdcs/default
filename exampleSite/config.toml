@@ -33,7 +33,7 @@ url = "about/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Calendar"
-url = "https://calendar.google.com"
+url = "https://calendar.sjbdcs.org"
 weight = 2
 [[Languages.en.menu.main]]
 name = "research and scholarship"
