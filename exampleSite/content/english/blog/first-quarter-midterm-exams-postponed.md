@@ -1,11 +1,11 @@
 +++
-author = ""
+author = "Communications Team"
 bg_image = ""
-categories = []
+categories = ["Updates"]
 date = 2022-10-12T21:00:00Z
 description = ""
 image = "/images/logo.png"
-tags = []
+tags = ["Exam"]
 title = " First Quarter Midterm Exams Postponed"
 type = "post"
 
