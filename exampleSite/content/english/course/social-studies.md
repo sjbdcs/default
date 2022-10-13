@@ -1,15 +1,15 @@
 +++
 apply_url = ""
 bg_image = ""
-category = ""
+category = "Social Sciences"
 date = ""
 description = ""
-duration = ""
+duration = "1 Year"
 fee = ""
 image = "/images/moe.jpg"
 teacher = ""
 title = "Social Studies"
 type = ""
-weekly = ""
+weekly = "3"
 
 +++
