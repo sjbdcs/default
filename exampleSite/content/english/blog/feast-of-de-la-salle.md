@@ -1,6 +1,6 @@
 +++
 author = "Zelalem Lencho"
-bg_image = ""
+bg_image = "/images/full.png"
 categories = ["De La Salle Day"]
 date = 2018-05-10T21:00:00Z
 description = ""
